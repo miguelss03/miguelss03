@@ -1,4 +1,4 @@
-I develop Web and Mobile applications using 
+--I develop Web and Mobile applications using 
 #React.JS and #React Native
 I'm currently studying 
 #Node.JS 
