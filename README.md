@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @miguelss03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Entrepreneur, Inventor, Developer, Engineer... Whatever you need to be to solve problems and apply technological solutions
 
-<!---
-miguelss03/miguelss03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I develop Web and Mobile applications using React.JS and React Native
+I'm currently studying Node.JS and means of backend solutions
+
+
